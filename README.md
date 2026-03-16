@@ -101,16 +101,16 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
-<img width="843" height="631" alt="image" src="">
+<img width="843" height="631" alt="image" src="https://github.com/NiralyaJ/Transfer-Learning/blob/96ac697adc44b36ec4fd79d82c04c4725b4a25fa/Screenshot%202026-03-16%20092905.png">
 
 ### Confusion Matrix
-<img width="843" height="631" alt="image" src="">
+<img width="843" height="631" alt="image" src="https://github.com/NiralyaJ/Transfer-Learning/blob/96ac697adc44b36ec4fd79d82c04c4725b4a25fa/Screenshot%202026-03-16%20093035.png">
 
 ### Classification Report
-<img width="843" height="631" alt="image" src="">
+<img width="843" height="631" alt="image" src="https://github.com/NiralyaJ/Transfer-Learning/blob/96ac697adc44b36ec4fd79d82c04c4725b4a25fa/Screenshot%202026-03-16%20101319.png">
 ### New Sample Prediction
-<img width="843" height="631" alt="image" src="">
-<img width="843" height="631" alt="image" src="">
+<img width="843" height="631" alt="image" src="https://github.com/NiralyaJ/Transfer-Learning/blob/96ac697adc44b36ec4fd79d82c04c4725b4a25fa/Screenshot%202026-03-16%20101330.png">
+<img width="843" height="631" alt="image" src="https://github.com/NiralyaJ/Transfer-Learning/blob/96ac697adc44b36ec4fd79d82c04c4725b4a25fa/Screenshot%202026-03-16%20101345.png">
 
 ## RESULT
 The VGG-19 model was successfully trained and optimized to classify defected and non-defected capacitors.
