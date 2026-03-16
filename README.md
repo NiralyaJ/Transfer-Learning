@@ -22,7 +22,8 @@ Make Predictions on New Data.
 
 ## PROGRAM
 
-```python
+```
+python
 # Load Pretrained Model and Modify for Transfer Learning
 
 model = models.vgg19(weights = models.VGG19_Weights.DEFAULT)
@@ -100,7 +101,6 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
-
 
 
 ### Confusion Matrix
